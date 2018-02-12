@@ -1,1 +1,1 @@
-# SimpleJabaBot
+# SimpleJavaBot
